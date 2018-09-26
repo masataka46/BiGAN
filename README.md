@@ -32,4 +32,4 @@ after 990 epochs, the original image and reconstructed image is bellow.
 left to right .... original '5' (normal data), reconstructed '5', original '7' (annormal data), reconstructed '7'.  
 
 # email  
-[webfarmer](t.ohmasa@w-farmer.com)
+t.ohmasa@w-farmer.com  
